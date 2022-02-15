@@ -43,12 +43,39 @@ body {
     0 6px 20px 0 rgba(238, 236, 236, 0.19);
   text-align: center;
 }
-/* footer  */
-.social-icon a{
-  color: #ffffff;
-
+/* contact me  */
+.contact-address li {
+  list-style: none;
+  margin-top: 20px;
+  color: white;
 }
-.social-icon a:hover{
-  color: #ffb400;
+.contact-address a {
+  text-decoration: none;
+}
+.contact-address i {
+  background-color: #ffb400;
+}
+.contact-address span {
+  margin-left: 12px;
+}
+@media only screen and (min-width: 375px) and (max-width: 667px) {
+  .jamela {
+    font-size: 14px;
+  }
+}
 
+input,
+textarea {
+  font-size: 18px;
+  padding-left: 12px;
+  color: rgb(100, 97, 97);
+  background-color: #262626;
+}
+
+/* footer  */
+.social-icon a {
+  color: #ffffff;
+}
+.social-icon a:hover {
+  color: #ffb400;
 }
