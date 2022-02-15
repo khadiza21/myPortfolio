@@ -2,16 +2,19 @@ body {
   margin: 0%;
   padding: 0%;
   background-color: #020204;
-   color: white; 
+  color: white;
 }
-.span-orange{
+.span-orange {
   color: #ffb400;
 }
+p {
+  text-align: justify;
+}
 /* nav bar styles */
-.dropdown-menu{
+.dropdown-menu {
   background-color: #020204;
 }
-.dropdown:hover>.dropdown-menu{
+.dropdown:hover > .dropdown-menu {
   display: block;
 }
 
@@ -25,3 +28,18 @@ body {
 /* .my-img{
     
 } */
+.iam {
+  font-size: 5vh;
+}
+.banner-btn {
+  color: white;
+}
+.banner-btn:hover {
+  color: black;
+  background-color: #ffb400;
+}
+.shadow-img {
+  box-shadow: 0 4px 8px 0 rgba(241, 238, 238, 0.2),
+    0 6px 20px 0 rgba(238, 236, 236, 0.19);
+  text-align: center;
+}
