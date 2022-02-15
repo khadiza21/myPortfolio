@@ -1,0 +1,15 @@
+body {
+  margin: 0%;
+  padding: 0%;
+  /* // background-color: #000000; */
+  /* color: white; */
+}
+.banner-img {
+  background-image: url(img/shape-4.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* .my-img{
+    
+} */
