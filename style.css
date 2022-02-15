@@ -1,18 +1,27 @@
 body {
   margin: 0%;
   padding: 0%;
-  /* // background-color: #000000; */
-  /* color: white; */
+  background-color: #020204;
+   color: white; 
 }
 .span-orange{
   color: #ffb400;
 }
-.banner-img {
+/* nav bar styles */
+.dropdown-menu{
+  background-color: #020204;
+}
+.dropdown:hover>.dropdown-menu{
+  display: block;
+}
+
+/* banner styles */
+/* .banner-img {
   background-image: url(img/shape-4.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-}
+} */
 /* .my-img{
     
 } */
