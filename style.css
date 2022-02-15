@@ -43,3 +43,12 @@ body {
     0 6px 20px 0 rgba(238, 236, 236, 0.19);
   text-align: center;
 }
+/* footer  */
+.social-icon a{
+  color: #ffffff;
+
+}
+.social-icon a:hover{
+  color: #ffb400;
+
+}
