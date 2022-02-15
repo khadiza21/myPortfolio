@@ -4,6 +4,9 @@ body {
   /* // background-color: #000000; */
   /* color: white; */
 }
+.span-orange{
+  color: #ffb400;
+}
 .banner-img {
   background-image: url(img/shape-4.png);
   background-position: center;
